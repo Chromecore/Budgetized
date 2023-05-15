@@ -8,3 +8,4 @@ Take control of your finances and achieve your financial goals with Budgetized, 
 
 - Budget Planning: Set up personalized budgets to track your spending in different categories and accounts. Stay informed about your progress with helpful visualizations when you're approaching your limits.
 
+For support email me at: chromecoredev@outlook.com
